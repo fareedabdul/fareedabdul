@@ -15,10 +15,7 @@ I'm from India 🇮🇳, currently in the Indian Standard Time Zone (IST) 🕰�
 
 ## 🔭 I'm currently working on
 
-[<img src="assets/bugsplat-slingshot-small.png" alt="bugsplat slingshot" height="150px">](https://github.com/BugSplat-Git)
-[<img style="margin-left: 6.5px" src="assets/wdh-logo.png" alt="bugsplat slingshot" height="150px">](https://github.com/workingdevshero)
+[<img src="assets/bugsplat-slingshot-small.png" alt="bugsplat slingshot" height="150px">]
+[<img style="margin-left: 6.5px" src="assets/wdh-logo.png" alt="bugsplat slingshot" height="150px">]
+[<img style="margin-left: 6.5px" src="assets/wdh-logo.png" alt="bugsplat slingshot" height="150px">]
 
-## 🌱 I’m currently learning
-
-[![chinese flag](assets/chinese-flag-round.svg)](https://www.duolingo.com/profile/bobbyg603)
-[![spanish flag](assets/spanish-flag-round.svg)](https://www.duolingo.com/profile/bobbyg603)
