@@ -17,5 +17,5 @@ I'm from India 🇮🇳, currently in the Indian Standard Time Zone (IST) 🕰�
 
 [<img src="assets/q1 (1).png" alt="bugsplat slingshot" height="150px">]
 [<img style="margin-left: 6.5px" src="assets/wp7664490 (1).jpg" alt="bugsplat slingshot" height="150px">]
-[<img style="margin-left: 6.5px" src="assets/wdh-logo.png" alt="bugsplat slingshot" height="150px">]
+[<img style="margin-left: 6.5px" src="assets/wdh-logo.png" alt="bugsplat slingshot" height="150px">
 
