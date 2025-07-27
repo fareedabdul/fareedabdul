@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Bobby Galli
+## Hi there 👋, my name is Fareed Abdul
 
 [![youtube channel link](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/bobbyg603)
 [![medium profile link](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bobbyg603)
