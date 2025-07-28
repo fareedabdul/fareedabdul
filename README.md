@@ -16,7 +16,6 @@ I'm from India 🇮🇳, currently in the Indian Standard Time Zone (IST) 🕰�
 ## 🔭 I'm currently working on
 
 [<img src="assets/q1 (1).png" alt="bugsplat slingshot" height="150px">]
-[<img src="assets/wp7664490 (1).jpg" alt="second image" height="150px" style="margin-left: 10px;">]
 [<img src="assets/wdh-logo.png" alt="third image" height="150px" style="margin-left: 10px;">]
 
 
