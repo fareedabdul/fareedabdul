@@ -18,10 +18,6 @@ I'm from India 🇮🇳, currently in the Indian Standard Time Zone (IST) 🕰�
 [<img src="assets/q1 (1).png" alt="bugsplat slingshot" height="150px">]
 [<img src="assets/wdh-logo.png" alt="third image" height="150px" style="margin-left: 10px;">]
 
-<h3 align="center">A passionate frontend developer from India</h3>
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fareedabdul" alt="fareedabdul" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
