@@ -11,7 +11,7 @@
 
 ![profile view count](https://komarev.com/ghpvc/?username=bobbyg603)
 
-I'm from India 🇮🇳, currently in the Indian Standard Time Zone (IST) 🕰️ UTC+5:30, I'm a huge fan of Node.js, TypeScript, open-source 💻. When I'm not crushing bugs or building dreams, I can be found playing FreeFire🏌️, Driving cars🚘, lifting weights 🏋️.
+I'm from India 🇮🇳, currently in the Indian Standard Time Zone (IST) 🕰️ UTC+5:30, I'm a huge fan of Node.js, TypeScript, open-source 💻. When I'm not crushing bugs always, I can be found playing FreeFire🏌️, Driving cars🚘, lifting weights 🏋️.
 
 ## 🔭 I'm currently working on
 
